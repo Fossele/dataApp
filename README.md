@@ -88,6 +88,8 @@ streamlit run app.py
 
 ## Auteur
 
+Fossele Tazon Wilfried
+
 Projet réalisé dans le cadre du cours INF232 - Analyse de données et Machine Learning.
 
 ```
